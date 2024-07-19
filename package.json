@@ -1,16 +1,8 @@
 {
-    "name": "cypress-bola-ai",
-    "version": "1.0.0",
-    "description": "bola ai chatgpt",
-    "main": "index.js",
-    "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "author": "Anjali",
-    "license": "ISC",
-    "dependencies": {
-      "cypress": "^13.13.1",
-      "otplib": "^12.0.1"
-    }
+  "devDependencies": {
+    "cypress": "^13.13.1"
+  },
+  "dependencies": {
+    "otplib": "^12.0.1"
+  }
 }
-  
